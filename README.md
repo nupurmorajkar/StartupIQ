@@ -154,6 +154,3 @@ It details:
 - Requirements Traceability Matrix (RTM)
 
 ---
-
-## 📜 License
-MIT License. Built for solo artisans, makers, and growing startups.
